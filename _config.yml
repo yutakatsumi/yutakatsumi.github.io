@@ -14,8 +14,8 @@ author: Yuta Katsumi, PhD
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Publications:
+  Research: "aboutme"
+  Publications: "pubs"
   Data/Code:
   Teaching:
 
