@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Yuta Katsumi, PhD
 subtitle: Cognitive neuroscientist @ Harvard Medical School
 ---
