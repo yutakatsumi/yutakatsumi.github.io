@@ -5,4 +5,4 @@ subtitle: Cognitive neuroscientist @ Harvard Medical School
 ---
 
 ## News
-_05/12/2021_: Website launched! Thanks for tuning in.
+- _05/12/2021_: Website launched! Thanks for tuning in.
