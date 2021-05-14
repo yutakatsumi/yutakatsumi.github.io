@@ -1,3 +1,7 @@
-# Publications 
+---
+layout: page
+title: Publications
+subtitle: 
+---
 
-here goes my list of publications
+Here is a list of my publications.
