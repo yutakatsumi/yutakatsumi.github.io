@@ -20,10 +20,35 @@ Moore, M., Maclin, E. L., Iordan, A.D., **Katsumi, Y.**, Bagshaw, A., Mayhew, S.
 
 ### 2020
 
-## Preprints
+### 2019
+Zhang, J.\*, Abiose, O.\*, **Katsumi, Y.**, Touroutoglou, A., Dickerson, B. C., & Barrett, L. F. (2019). Intrinsic functional connectivity is organized as three interdependent gradients. _Scientific Reports_, 9, 15976. doi:10.1038/s41598-019-51793-7.
 
+Dolcos, F., **Katsumi, Y.**, Moore, M., Berggren, N., de Gelder, B., Derakshan, N., Hamm, A. O., Koster, E. H. W., Ladouceur, C. D., Okon-Singer, H., Pegna, A. J., Richter, T., Schweizer, S., Van den Stock, J., Ventura Bort, C., Weymar, M. & Dolcos, S. (2019).  Neural correlates of emotion-attention interactions. Part of a special issue, “Towards an integrated understanding of the human affectome”, Neuroscience and Biobehavioral Reviews.
+
+### 2018
+**Katsumi, Y.** & Dolcos, S. (2018). Suppress to feel and remember less: Neural correlates of explicit and implicit emotional suppression on perception and memory. _Neuropsychologia._ doi: 10.1016/j.neuropsychologia.2018.02.010.
+
+**Katsumi, Y.** & Dolcos, S. (2018). Neural correlates of racial ingroup bias in observing computer-animated social encounters. Part of the special issue “Physiological Computing of Social Cognition”, _Frontiers in Human Neuroscience_, 11:632. doi: 10.3389/fnhum.2017.00632.
+
+### 2017
+**Katsumi, Y.**, Kim, S., Sung, K., Dolcos, F., & Dolcos, S. (2017). When nonverbal greetings “make it or break it”: The role of ethnicity and gender differences in the effect of handshake on social appraisals. _Journal of Nonverbal Behavior._ doi: 10.1007/s10919-017-0257-0.
+
+Dolcos, F., **Katsumi, Y.**, Weymar, M., Moore, M., Tsukiura, T., & Dolcos, S. (2017). Emerging directions in emotional episodic memory. _Frontiers in Psychology: Emotion Science_, 8:1867. doi: 10.3389/fpsyg.2017.01867.
+
+### 2014
+Dolcos, S., **Katsumi, Y.**, & Dixon, R. (2014). The role of arousal in the spontaneous regulation of emotions in healthy aging: A fMRI Investigation. Part of the special issue "Emotion and Aging: Recent Evidence from Brain and Behavior", _Frontiers in Psychology_, 5:681. doi: 10.3389/fpsyg.2014.00681.
+
+## Preprints
+N/A
 
 ## Book chapters
+Dolcos, S., Moore, M., & **Katsumi, Y.** (2018). Neuroscience and Well-Being. e-Handbook of Subjective Well-Being. Edited by Ed Diener, Shigehiro Oishi, & Louis Tay. NobaScholar. doi: nobascholar.com.
+
+**Katsumi, Y.**, Denkova, E., & Dolcos, S. (2017). Personality and Memory. Encyclopedia of Personality and Individual Differences. Edited by Virgil Zeigler-Hill and Todd K. Shackelford. Springer. doi: 10.1007/978-3-319-28099-8_992-1.
+
+Dolcos, F., **Katsumi, Y.**, Denkova, E., & Dolcos, S. (2017). Factors Influencing Opposing Effects of Emotion on Cognition: A Review of Evidence from Research on Perception and Memory. An invited chapter in The Physics of the Mind and Brain Disorders: Integrated Neural Circuits Supporting the Emergence of Mind (Springer Series in Cognitive and Neural Systems, New York, NY), pp. 297-341. Edited by Ioan Opris and Manuel F. Casanova. Springer International Publishing. doi: 10.1007/978-3-319-29674-6.
+
+Dolcos, F., **Katsumi, Y.**, Denkova, E., Weymar, M., & Dolcos, S. (2017). Current Issues and Emerging Directions in the Impact of Emotion on Memory: A Review of Evidence from Brain Imaging Investigations. An invited chapter in Memory in a Social Context. Edited by Takashi Tsukiura and Satoshi Umeda. Springer Japan KK. doi: 10.1007/978-4-431-56591-8.
 
 
 
