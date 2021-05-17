@@ -11,7 +11,7 @@ See also my [researchgate][rg] and [Google Scholar][scholar] pages.
 ## Peer-reviewed Manuscripts
 ### 2021
 
-**Katsutmi, Y.**, Andreano, J. M., Barrett, L. F., Dickerson, B. C., & Touroutoglou, A. (2021). Greater neural differentiation in the ventral visual cortex is associated with youthful memory in superaging. _Cerebral Cortex._ \[PDF\]
+**Katsumi, Y.**, Andreano, J. M., Barrett, L. F., Dickerson, B. C., & Touroutoglou, A. (2021). Greater neural differentiation in the ventral visual cortex is associated with youthful memory in superaging. _Cerebral Cortex._ \[PDF\]
 
 
 Moore, M., Maclin, E. L., Iordan, A.D., **Katsumi, Y.**, Bagshaw, A., Mayhew, S., Shafer, A. T., Singhal, A., Dolcos, S., Fabiani, M., Gratton, G., & Dolcos, F.  (2021). Proof-of-concept evidence for trimodal simultaneous investigation of human brain function. _Human Brain Mapping._ \[PDF\]
