@@ -15,7 +15,7 @@ See also my [researchgate][rg] and [Google Scholar][scholar] pages.
 
 Moore, M., Maclin, E. L., Iordan, A.D., **Katsumi, Y.**, Bagshaw, A., Mayhew, S., Shafer, A. T., Singhal, A., Dolcos, S., Fabiani, M., Gratton, G., & Dolcos, F.  (2021). Proof-of-concept evidence for trimodal simultaneous investigation of human brain function. _Human Brain Mapping._ \[PDF\]
 
-**Katsumi, Y.**, Kondo, N., Dolcos, S., Dolcos, F., & Tsukiura, T. (2021). Intrinsic functional network contributions to the relationship between trait empathy and subjective happiness. _NeuroImage._ 227, 117650. doi: 10.1016/j.neuroimage.2020.117650. [\[PDF\]](https://www.dropbox.com/s/ei8ti6qka41tq81/Katsumi_etal_2020_NeuroImage.pdf?dl=0) [\[Supplementary Material\]]
+**Katsumi, Y.**, Kondo, N., Dolcos, S., Dolcos, F., & Tsukiura, T. (2021). Intrinsic functional network contributions to the relationship between trait empathy and subjective happiness. _NeuroImage._ 227, 117650. doi: 10.1016/j.neuroimage.2020.117650. [\[PDF\]](https://www.dropbox.com/s/ei8ti6qka41tq81/Katsumi_etal_2020_NeuroImage.pdf?dl=0) [\[Supplementary Material\]](https://www.dropbox.com/s/tdss9axt5oqghh1/Katsumi_etal_2020_NeuroImage_SM.pdf?dl=0)
 
 ### 2020
 Hoeman, K., Hartley, L., Watanabe, A., Solana Leon, E., **Katsumi, Y.**, Barrett, L. F., & Quigley, K. (2020). The N400 indexes acquisition of novel emotion concepts via conceptual combination. _Psychophysiology_. doi: 10.1111/psyp.13727
